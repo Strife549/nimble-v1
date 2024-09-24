@@ -6,6 +6,7 @@
     "minimum": "12",
     "verified": "12"
   },
+  "manifest": "https://github.com/Strife549/nimble_v1/blob/main/module.json",
   "relationships": {
     "recommends": [
       {
@@ -18,8 +19,7 @@
   "description": "A conpendium of features using the nimble v1 system for D&amp;D 5e. This is an unoffical fan made module.",
   "authors": [
     {
-      "name": "Evan Diaz",
-      "discord": "NimbleRPG.com/discrd",
+      "name": "Strife549",
       "flags": {}
     }
   ],
