@@ -1,0 +1,8 @@
+2024/09/23-19:04:00.451 1a1fc Recovering log #4
+2024/09/23-19:04:00.454 1a1fc Delete type=0 #4
+2024/09/23-19:04:00.454 1a1fc Delete type=3 #2
+2024/09/23-19:05:03.849 1a3f4 Level-0 table #9: started
+2024/09/23-19:05:03.849 1a3f4 Level-0 table #9: 0 bytes OK
+2024/09/23-19:05:03.849 1a3f4 Delete type=0 #7
+2024/09/23-19:05:03.849 1a3f4 Manual compaction at level-0 from '!folders!pq6xmT0mHue98Y51' @ 72057594037927935 : 1 .. '!items.effects!wEOXbxfOZ97nhLpi.67L7ddkzyJ9rmks5' @ 0 : 0; will stop at (end)
+2024/09/23-19:05:03.849 1a3f4 Manual compaction at level-1 from '!folders!pq6xmT0mHue98Y51' @ 72057594037927935 : 1 .. '!items.effects!wEOXbxfOZ97nhLpi.67L7ddkzyJ9rmks5' @ 0 : 0; will stop at (end)

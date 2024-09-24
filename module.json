@@ -1,0 +1,39 @@
+{
+  "id": "nimble-v1",
+  "title": "Nimble v1",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "recommends": [
+      {
+        "id": "resourcesplus",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A conpendium of features using the nimble v1 system for D&amp;D 5e. This is an unoffical fan made module.",
+  "authors": [
+    {
+      "name": "Evan Diaz",
+      "discord": "NimbleRPG.com/discrd",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "nimble-v1",
+      "label": "Nimble v1",
+      "path": "packs/nimble-v1",
+      "type": "Item",
+      "system": "dnd5e",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      }
+    }
+  ]
+}
